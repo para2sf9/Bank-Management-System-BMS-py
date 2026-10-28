@@ -1,7 +1,6 @@
 # Bank Management System
 
 A desktop GUI application for managing bank internal operations including employees, departments, attendance, payroll, branches, leaves, and audit logs.<br/>
-<img width="1197" height="718" alt="image" src="https://github.com/user-attachments/assets/8a472e2f-5149-4bab-9fae-f837dfa2f642" />
 <img width="399" height="348" alt="image" src="https://github.com/user-attachments/assets/0c9ac575-6cfa-48e2-b308-60c1f44d488a" /><br/>
 <img width="1197" height="718" alt="image" src="https://github.com/user-attachments/assets/cb5bb3df-2cfe-472c-819d-ffea8eec147e" /><br/>
 <img width="1193" height="667" alt="image" src="https://github.com/user-attachments/assets/43da8504-dad4-4354-afd5-2b3602956274" /><br/>
